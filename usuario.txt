@@ -1,0 +1,10 @@
+el usuario y contraseña es:
+
+panel@galletamkt.com
+SurtidoRico2021#9811
+
+pag. produccion
+https://panel.galletamkt.com/auth/login.php
+
+pag. clon
+https://clonpanel.galletamkt.com/auth/login.php
